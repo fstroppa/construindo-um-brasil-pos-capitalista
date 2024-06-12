@@ -1,4 +1,4 @@
-# construindo-um-brasil-pos-capitalista
+# Construindo um Brasil Pós-Capitalista: Tecnologia do Século XXI para Democracia Plena, HarmoniaAmbiental e Qualidade de Vida para Todos
 
 ## Visão Geral
 Este livro é um rascunho inicial que propõe um novo sistema econômico e social para o Brasil, focado em qualidade de vida para todos, harmonia ambiental e democracia radical. O livro é totalmente gratuido, e peço para que seja divulgado ou compartilhado pela página oficial do github (https://github.com/fstroppa/construindo-um-brasil-pos-capitalista)
